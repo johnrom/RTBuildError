@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTBuildError", "RTBuildError\RTBuildError.csproj", "{6816365D-6DC2-4AA9-8026-99E593920D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6816365D-6DC2-4AA9-8026-99E593920D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6816365D-6DC2-4AA9-8026-99E593920D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6816365D-6DC2-4AA9-8026-99E593920D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6816365D-6DC2-4AA9-8026-99E593920D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5832A85A-B814-4227-8D25-34986A7DB3F8}
+	EndGlobalSection
+EndGlobal
